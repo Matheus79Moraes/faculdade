@@ -119,7 +119,7 @@ button[type="submit"] {
   background-color: rgb(93, 93, 93);
 }
 
-/* RESPONSIVIDADE */
+/* 🔁 RESPONSIVIDADE */
 
 @media (max-width: 768px) {
   .container {
